@@ -5,9 +5,9 @@ Contexto del proyecto para los agentes de IA. Léalo antes de cualquier cambio.
 ## Proyecto
 
 Plataforma web lúdica de cursos para niños.
-Curso: Geografía de Colombia.
-Mecánica: Misiones e Insignias.
-Roles: docente y niño. El niño entra con código de clase y avatar, sin correo.
+Curso: Matematicas.
+Mecánica: Racha Diaria.
+Roles: docente y niño;el niño entra con codigo de clase y avatar ,sin correo.
 
 ## Stack
 
@@ -19,7 +19,7 @@ Roles: docente y niño. El niño entra con código de clase y avatar, sin correo
 ## Comandos
 
 - Instalar: `pip install -r requirements-dev.txt`
-- Ejecutar: `uvicorn app.main:app --reload`
+- Ejecutar localmente: `uvicorn app.main:app --reload`
 - Pruebas: `pytest -v`
 - Estilo: `ruff check .`
 

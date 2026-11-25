@@ -1,26 +1,2 @@
-# Encargo del Curso
-
-## Geografía de Colombia:
-
-Cliente: Empresa de Juegos de Mesa Educativos.
-```
-Nuestro juego de mesa sobre las regiones de Colombia se vende bien en colegios, pero los docentes nos
-piden una versión digital que los niños puedan usar en cualquier momento. Queremos vender la
-plataforma a los colegios que ya compran nuestros juegos y a otros nuevos.
-
-Queremos que los niños aprendan las regiones naturales, los departamentos y sus capitales, y algunos
-datos de cada región, como su comida, su música o sus paisajes. Las actividades deben usar el mapa de
-Colombia y ser tan divertidas como el juego de mesa, donde los niños compiten entre ellos.
-
-El docente debe poder elegir qué regiones trabaja su grupo y ver qué departamentos y capitales
-confunde cada niño. También queremos saber cuánto tiempo juegan y qué actividades completan.
-
-Nos diferencia que conocemos lo que funciona con los niños en el salón y que el contenido incluye todas
-las regiones del país, no solo las ciudades principales.
-
-Ejemplos de actividades que imaginamos:
-- Tocar en el mapa el departamento de Bolívar.
-- Relacionar cada departamento con su capital.
-- Adivinar la región a partir de una pista: aquí se baila el joropo.
-
-```
+**encargo:** 
+Matemáticas Cliente: una editorial de textos escolares de matemáticas para primaria. Vendemos libros de matemáticas a colegios privados de la región Caribe y queremos complementarlos con una plataforma web que los colegios compren junto con los libros. Nuestros clientes nos dicen que los niños se aburren practicando operaciones en el cuaderno y que los docentes no alcanzan a revisar los ejercicios de todos. Queremos que los niños practiquen las cuatro operaciones básicas y resuelvan problemas cortos de la vida diaria, como repartir dulces o pagar en la tienda. Las actividades deben ser rápidas, con la dificultad adecuada para cada niño, y el niño debe saber de inmediato si acertó. El docente debe poder crear actividades para su grupo y ver cómo va cada niño, para saber a quién reforzar. También nos interesa saber cuánto tiempo juegan y cuántas actividades terminan. Nos diferencia de las aplicaciones gratuitas que el contenido sigue el orden de nuestros libros, que el docente controla lo que practica su grupo y que no hay publicidad. Los colegios tienen salas de cómputo con conexión lenta, aunque muchos niños practican en casa desde el celular de un familiar. 
